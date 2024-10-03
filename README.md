@@ -57,37 +57,32 @@ Hi there! I'm **Parmar Mihir Dineshbhai**, a passionate **Computer Engineering**
 
 ## 🚀 Projects
 
-### 1. WebApp Integration and Enhancement at Apni Technologies | [Link](https://github.com/MihirParmar011/WebView)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![API](https://img.shields.io/badge/API-339933?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-- **Technologies**: Android Studio, Java, XML, PWA, API Integration
-- **Contributions**: Enhanced mobile functionalities, improved session management, and implemented offline support with PWA for a better user experience.
-
-### 2. Clock Application (Stopwatch, World Clock, Alarm, Timer)  
+### 1. Clock Application (Stopwatch, World Clock, Alarm, Timer) | [Link](https://github.com/MihirParmar011/AlaramClock)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 - **Technologies**: Android Studio, Java
 - **Features**: A comprehensive clock application that includes functionalities for a stopwatch, world clock, alarm setting, and a countdown timer. It integrates user-friendly UI for ease of use and customization.
 
-### 3. Tic-Tac-Toe Game  
+### 2. Tic-Tac-Toe Game | [Link](https://github.com/MihirParmar011/TicTacToe)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 - **Technologies**: Java, XML
 - **Features**: Developed a classic Tic-Tac-Toe game with an intuitive interface, offering both single-player and two-player modes.
 
-### 4. WebView Application  
+### 3. WebView Application | [Link](https://github.com/MihirParmar011/WebView) 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Web](https://img.shields.io/badge/Web-HTML5?style=for-the-badge&logo=html5&logoColor=white)
 
 - **Technologies**: Android Studio, WebView, HTML, CSS
 - **Features**: This app integrates web content within a mobile application using WebView. It allows users to access any website directly through the app, providing a smooth browsing experience with additional features like history management, back/forward navigation, and URL input.
 
-### 5. Calculator Application  
+### 4. Calculator Application | [Link](https://github.com/MihirParmar011/Calculator)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![UI](https://img.shields.io/badge/UI-Design-brightgreen?style=for-the-badge)
 
 - **Technologies**: Java, XML
 - **Features**: Developed an aesthetically pleasing and easy-to-use calculator application. The app focuses on clean UI design and usability, supporting basic arithmetic operations with an interactive display.
 
-### 6. To-Do List Application  
+### 5. To-Do List Application | [Link](https://github.com/MihirParmar011/ToDO-List)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![File System](https://img.shields.io/badge/File%20System-Storage-blue?style=for-the-badge)
 
 - **Technologies**: Android Studio, Java, File I/O
