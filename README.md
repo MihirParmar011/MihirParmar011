@@ -1,5 +1,9 @@
 # Welcome to Mihir Parmar's GitHub Profile 👋
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-logo.png" width="200">
+</p>
+
 Hi there! I'm **Parmar Mihir Dineshbhai**, a passionate **Computer Engineering** student currently pursuing my Bachelor's (Batch 2021) at GTU. I love working on **Mobile App Development**, **Cloud Computing**, and **DevOps**. I'm always eager to explore new technologies and contribute to exciting projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MihirParmar011&color=blue)
@@ -57,7 +61,6 @@ Hi there! I'm **Parmar Mihir Dineshbhai**, a passionate **Computer Engineering**
 
 ## 🚀 Projects
 
-
 ### 1. Clock Application (Stopwatch, World Clock, Alarm, Timer) | [Link](https://github.com/MihirParmar011/AlaramClock)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
@@ -106,9 +109,11 @@ Hi there! I'm **Parmar Mihir Dineshbhai**, a passionate **Computer Engineering**
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MihirParmar011)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihir-parmar011)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parmar.mihir@gmail.com)
+<p align="center">
+  <a href="https://github.com/MihirParmar011"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/mihir-parmar011"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:parmar.mihir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
@@ -117,7 +122,6 @@ Hi there! I'm **Parmar Mihir Dineshbhai**, a passionate **Computer Engineering**
 </p>
 
 ✨ **Let's build something amazing together!** ✨
-
 
 <!---- - 👋 Hi, I’m @MihirParmar011
 - 👀 I’m interested in ...
