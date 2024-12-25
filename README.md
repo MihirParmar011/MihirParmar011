@@ -116,8 +116,9 @@ Hi there! I'm **Parmar Mihir Dineshbhai**, a passionate **Computer Engineering**
 ## 📅 3D Contribution Calendar
 
 <p align="center">
-  <img src="./profile-3d-contrib/calendar.svg" alt="3D Contribution Calendar">
+  <img src="./profile-3d-contrib/contribution-calendar.svg" alt="3D Contribution Calendar">
 </p>
+
 
 
 
