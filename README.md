@@ -5,7 +5,7 @@ Hi there! I'm **Parmar Mihir Dineshbhai**, a passionate **Computer Engineering**
   <img src="https://github-readme-stats.vercel.app/api?username=MihirParmar011&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirParmar011&layout=compact&theme=radical" alt="Top Languages">
 </p>
----
+
 ## About Me
 - 🔭 I’m currently working on various **Android** and **WebApp** development projects.
 - 🌱 I’m currently learning **Cloud Computing**, **DevOps**, and **Flutter**.
@@ -13,7 +13,7 @@ Hi there! I'm **Parmar Mihir Dineshbhai**, a passionate **Computer Engineering**
 - 🎓 I have completed an internship at **Apni Technologies**, where I worked on **WebApp Integration and Enhancement**.
 - 📚 I'm open to collaborating on **open-source** projects and contributing to real-world applications.
 - 📈 My future goals include mastering **Java**, **Cloud Computing**, and **Flutter** development.
----
+
 ## 💻 Tech Stack & Tools
 ### Programming Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -39,7 +39,7 @@ Hi there! I'm **Parmar Mihir Dineshbhai**, a passionate **Computer Engineering**
 - **Git**: Version Control  
 - **GitHub**: Repository Hosting  
 - **Postman**: API Testing
----
+
 ## 🚀 Projects
 ### 1. WebApp Integration and Enhancement at Apni Technologies  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![API](https://img.shields.io/badge/API-339933?style=for-the-badge&logo=json-web-tokens&logoColor=white)
@@ -70,19 +70,19 @@ Hi there! I'm **Parmar Mihir Dineshbhai**, a passionate **Computer Engineering**
   - Task creation, editing, and deletion
   - Task categorization and status tracking (completed/pending)
   - User-friendly interface to manage daily tasks efficiently
----
+
 ## 📚 Additional Resources
 - [Android Development Documentation](https://developer.android.com/docs)
 - [Java Documentation](https://docs.oracle.com/javase/8/docs/api/)
 - [Flutter Documentation](https://flutter.dev/docs)
 - [Postman Documentation](https://learning.postman.com/docs/getting-started/introduction/)
 - [GitHub Guides](https://guides.github.com/)
----
+
 ## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MihirParmar011)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihir-parmar011)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parmar.mihir@gmail.com)
----
+
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400">
 </p>
