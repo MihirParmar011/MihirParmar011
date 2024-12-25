@@ -111,12 +111,15 @@ Hi there! I'm **Parmar Mihir Dineshbhai**, a passionate **Computer Engineering**
   - Task categorization and status tracking (completed/pending)
   - User-friendly interface to manage daily tasks efficiently
 
----
+
 
 ## 📅 3D Contribution Calendar
-![3D Contributions](https://raw.githubusercontent.com/MihirParmar011/MihirParmar011/main/3d-calendar/calendar.svg)
 
----
+<p align="center">
+  <img src="./profile-3d-contrib/calendar.svg" alt="3D Contribution Calendar">
+</p>
+
+
 
 ## 📧 Connect with Me
 
