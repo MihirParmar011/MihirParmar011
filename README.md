@@ -123,14 +123,8 @@ Hi there! I'm **Parmar Mihir Dineshbhai**, a passionate **Computer Engineering**
 
 ✨ **Let's build something amazing together!** ✨
 
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
+## GitHub Stats 📊
+![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MihirParmar011&show_icons=true&theme=radical)
 
 
 <!---- - 👋 Hi, I’m @MihirParmar011
