@@ -123,6 +123,16 @@ Hi there! I'm **Parmar Mihir Dineshbhai**, a passionate **Computer Engineering**
 
 ✨ **Let's build something amazing together!** ✨
 
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
+
+
 <!---- - 👋 Hi, I’m @MihirParmar011
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
