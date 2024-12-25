@@ -123,8 +123,9 @@ Hi there! I'm **Parmar Mihir Dineshbhai**, a passionate **Computer Engineering**
 
 ✨ **Let's build something amazing together!** ✨
 
-## GitHub Stats 📊
-![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MihirParmar011&show_icons=true&theme=radical)
+## My 3D Contribution Graph 🌟
+![3D Contribution Graph](https://github-contributions.now.sh/user/MihirParmar011)
+
 
 
 <!---- - 👋 Hi, I’m @MihirParmar011
