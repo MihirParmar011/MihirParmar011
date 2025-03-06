@@ -113,12 +113,9 @@ Hi there! I'm **Parmar Mihir Dineshbhai**, a passionate **Computer Engineering**
 
 
 
-## 📅 3D Contribution Calendar
+## My GitHub Contributions in 3D 🌟
 
-<p align="center">
-  <img src="./profile-3d-contrib/contribution-calendar.svg" alt="3D Contribution Calendar">
-</p>
-
+![Isometric Contributions](https://isometric-contributions.vercel.app/api?username=MihirParmar011&theme=github-light)
 
 
 
