@@ -60,39 +60,52 @@ I'm always eager to explore new technologies and contribute to exciting projects
 
 ## 🚀 Projects
 
-### 1. WebApp Integration and Enhancement (Internship at Apni Technologies)
-- **Technologies**: Android Studio, Java, XML, PWA, API Integration
-- **Contributions**: Enhanced mobile functionalities, improved session management, implemented offline support with PWA for better user experience.
-
-### 2. Clock Application (Stopwatch, World Clock, Alarm, Timer)
-- **Technologies**: Android Studio, Java
-- **Features**: A full clock suite app — includes stopwatch, world clock, alarms, and countdown timer with user-friendly UI.
-
-### 3. Tic-Tac-Toe Game
-- **Technologies**: Java, XML
-- **Features**: Developed a classic Tic-Tac-Toe game supporting both single-player and two-player modes.
-
-### 4. WebView Application
-- **Technologies**: Android Studio, WebView, HTML, CSS
-- **Features**: Integrated web content within a mobile app using WebView; features include history management, navigation, and URL input.
-
-### 5. Calculator Application
-- **Technologies**: Java, XML
-- **Features**: Developed a simple, clean calculator app supporting basic arithmetic operations.
-
-### 6. To-Do List Application
-- **Technologies**: Android Studio, Java, File I/O
-- **Features**: 
-  - User authentication (Login/Logout)
-  - Task creation, editing, deletion
-  - File system-based task storage
-  - Task categorization and completion tracking
+## 1. Duta Chat Application
+**Technologies:** Android Studio, Java, Firebase, XML  
+**Features:**
+- Real-time chat with end-to-end encryption
+- Friend request system using unique user IDs
+- Profile management, image sharing, and full-screen media viewer
+- Fragments for Chat, Find Friends, and Requests
+- Firebase Authentication and Realtime Database integration
 
 ---
 
-## 📊 My GitHub Contributions in 3D
+## 2. WebNest – Mobile Web Browser
+**Technologies:** Flutter, Dart, WebView, Lottie  
+**Features:**
+- Lightweight mobile browser with full WebView support
+- Onboarding with Lottie animations
+- Custom URL input and navigation
+- Fast loading and native-like performance
 
-![Isometric Contributions](https://isometric-contributions.vercel.app/api?username=MihirParmar011&theme=github-light)
+---
+
+## 3. To-Do List Application (Android)
+**Technologies:** Android Studio, Java, File I/O  
+**Features:**
+- User authentication (Login/Logout)
+- Task management: create, edit, delete
+- File system-based storage
+- Task categorization and completion tracking
+
+---
+
+## 4. Flutter & Android Calculator
+**Technologies:** Flutter, Dart | Java, XML  
+**Features:**
+- Calculator apps with support for basic arithmetic operations
+- Separate versions developed in Android (Java) and Flutter
+- Clean and responsive UI
+
+---
+
+## 5. WebApp Integration and Enhancement *(Internship at Apni Technologies)*
+**Technologies:** Android Studio, Java, XML, PWA, API Integration  
+**Contributions:**
+- Enhanced mobile functionalities
+- Improved session management
+- Implemented offline support using PWA for a better user experience
 
 ---
 
