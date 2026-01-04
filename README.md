@@ -8,14 +8,14 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MihirParmar011&color=blue)](https://github.com/MihirParmar011)
 
-<div align="center">
-  <a href="https://github.com/MihirParmar011">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MihirParmar011&theme=radical&hide_border=true"  alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/MihirParmar011">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MihirParmar011&theme=radical" height="180" alt="Top Languages" />
-  </a>
-</div>
+<br/>
+
+<a href="https://github.com/MihirParmar011">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MihirParmar011&theme=radical&hide_border=true" height="160" alt="GitHub Streak" />
+</a>
+<a href="https://github.com/MihirParmar011">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MihirParmar011&theme=radical" height="160" alt="Top Languages" />
+</a>
 
 </div>
 
