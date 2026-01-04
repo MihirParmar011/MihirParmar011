@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/MihirParmar011">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MihirParmar011&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MihirParmar011&theme=radical&hide_border=true"  alt="GitHub Streak" />
   </a>
   <a href="https://github.com/MihirParmar011">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MihirParmar011&theme=radical" height="180" alt="Top Languages" />
