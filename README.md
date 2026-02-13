@@ -17,6 +17,27 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MihirParmar011&theme=radical" height="165" />
 </a>
 
+<br/>
+
+<a href="https://github.com/MihirParmar011">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MihirParmar011&theme=github_dark" height="165" />
+</a>
+<a href="https://github.com/MihirParmar011">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MihirParmar011&theme=github_dark" height="165" />
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihirParmar011/MihirParmar011/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MihirParmar011/MihirParmar011/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MihirParmar011/MihirParmar011/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br/><br/>
+
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
+
 </div>
 
 ---
